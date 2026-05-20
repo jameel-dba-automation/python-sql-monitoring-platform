@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Inventory file with credentials
+inventory/instances_template.csv
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
